@@ -1,0 +1,84 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    font-family: 'Tangerine', sans-serif;
+    font-size: 12px;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    font-family: Copperplate,Copperplate Gothic Light,fantasy;
+    display: inline;
+    margin-right: 34px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+	font-family: Papyrus,fantasy;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Papyrus,fantasy;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Papyrus,fantasy;
+	color:555555;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.highlights {
+	font-family: Papyrus,fantasy; 
+}
+.hightlights .container h3{
+	color: #4A96AD;
+}
+.updates {
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
+	color:#4A96AD; 
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .4em;
+}
+footer.p {
+	font-family: Times;
+	font-size: 8px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;	
+}
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
