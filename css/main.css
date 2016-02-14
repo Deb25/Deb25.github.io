@@ -47,6 +47,7 @@ p {
 	line-height: 20px;
 }
 .update h3{
+  display: box;
   position: relative;
   top: 91px;
   left: 55px;
