@@ -29,7 +29,7 @@ h1 {
 	font-weight: 500;
 	line-height: 26.4px;
 }
-h2 {
+h3 {
 	font-family: Georgia;
 	font-size: 14px;
 	font-style: normal;
@@ -44,6 +44,14 @@ p {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 20px;
+}
+.updates h3{
+	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 500;
+	line-height: 15.4px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
