@@ -50,7 +50,7 @@ p {
 .projects .container h3 {
 	font-family: Copperplate,Copperplate Gothic Light,fantasy;
 }
-.hightlights .container p{
+.projects .container p ul li{
 	font-family: Papyrus,fantasy;
 	color:555555;
 	font-size: 14px;
