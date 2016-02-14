@@ -51,14 +51,10 @@ p {
 	font-family: Papyrus,fantasy; 
 }
 .hightlights h3{
-	color: #7E8F7C;
+	color: #4A96AD;
 }
 .update h3{
-  display: box;
-  float: right;
-  position: relative;
-  top: 91px;
-  left: 55px;
+	color: #7E8F7C;
 }
 .updates h3{
 	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
