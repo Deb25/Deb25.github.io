@@ -50,13 +50,13 @@ p {
 .highlights {
 	font-family: Papyrus,fantasy; 
 }
-.hightlights h3{
+.hightlights .container h3{
 	color: #4A96AD;
 }
-.update h3{
+.update .container h3{
 	color: #7E8F7C;
 }
-.updates h3{
+.updates .container h3{
 	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
 	font-size: 14px;
 	font-style: normal;
