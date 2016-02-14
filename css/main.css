@@ -32,7 +32,6 @@ h1 {
 }
 h3 {
 	font-family: Papyrus,fantasy;
-	color: #7E8F7C;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: small-caps;
@@ -50,6 +49,9 @@ p {
 }
 .highlights {
 	font-family: Papyrus,fantasy; 
+}
+.hightlights h3{
+	color: #7E8F7C;
 }
 .update h3{
   display: box;
