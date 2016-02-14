@@ -46,7 +46,7 @@ p {
 	font-weight: 400;
 	line-height: 20px;
 }
-.blurb h3 ul li{
+.blurb .container h3 ul li{
 	font-family: Papyrus,fantasy;
 	font-size: 14px;
 	font-style: normal;
