@@ -48,6 +48,7 @@ p {
 }
 .update h3{
   display: box;
+  float: right;
   position: relative;
   top: 91px;
   left: 55px;
