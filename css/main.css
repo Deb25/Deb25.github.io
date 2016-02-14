@@ -54,12 +54,12 @@ p {
 	color: #4A96AD;
 }
 .updates .container {
-	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
+	font-family: Copperplate,Copperplate Gothic Light,fantasy;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
-	line-height: 15.4px;
+	font-weight: 400;
+	line-height: 20px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
