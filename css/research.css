@@ -50,9 +50,8 @@ p {
 .projects .container h3 {
 	font-family: Copperplate,Copperplate Gothic Light,fantasy;
 }
-.projects .container p ul li{
-	font-family: Papyrus,fantasy;
-	color:555555;
+.projects ul li {
+	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
