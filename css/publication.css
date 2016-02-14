@@ -53,9 +53,8 @@ p {
 .hightlights .container h3{
 	color: #4A96AD;
 }
-.updates {
-	font-family: Copperplate,Copperplate Gothic Light,fantasy;
-	color:#4A96AD; 
+.publication ul li {
+	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
