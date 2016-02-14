@@ -50,8 +50,14 @@ p {
 .projects .container h3 {
 	font-family: Copperplate,Copperplate Gothic Light,fantasy;
 }
-.hightlights .container h3{
-	color: #4A96AD;
+.hightlights .container p{
+	font-family: Papyrus,fantasy;
+	color:555555;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
 }
 .updates {
 	font-family: Copperplate,Copperplate Gothic Light,fantasy;
