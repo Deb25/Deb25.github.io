@@ -53,10 +53,11 @@ p {
 .hightlights .container h3{
 	color: #4A96AD;
 }
-.update .container h3{
-	color: #7E8F7C;
+.update .container {
+	display: box;
 }
 .updates .container h3{
+	color: #7E8F7C;
 	font-family: Big Caslon,Book Antiqua,Palatino Linotype,Georgia,serif;
 	font-size: 14px;
 	font-style: normal;
