@@ -49,6 +49,12 @@ p {
 .blurb .container {
 	font-family: Papyrus,fantasy;
 }
+.research .container {
+	font-family: Papyrus,fantasy;
+}
+.project .container {
+	font-family: Papyrus,fantasy;
+}
 .update h3{
   display: box;
   float: right;
